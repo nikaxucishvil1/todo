@@ -47,3 +47,4 @@ function delItems() { // washlis punqcia
 }
 
 setItems();
+document.body.addEventListener("DOMContentLoaded",setItems)
